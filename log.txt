@@ -1,0 +1,238 @@
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-07-10 16:00:11.
+Table date: 2017-07-08
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-07-17 16:00:11.
+Table date: 2017-07-15
+Updating Excel file
+^C
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-07-24 16:00:11.
+Table date: 2017-07-21
+Data is not fully ready.
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-07-31 16:00:11.
+Table date: 2017-07-28
+Data is not fully ready.
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-08-07 16:00:11.
+Table date: 2017-08-04
+Data is not fully ready.
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-08-14 16:00:11.
+Table date: 2017-08-12
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-08-21 16:00:11.
+Table date: 2017-08-18
+Data is not fully ready.
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-09-04 16:00:19.
+Table date: 2017-09-02
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-09-11 16:00:21.
+Table date: 2017-09-09
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-09-18 16:00:11.
+Table date: 2017-09-16
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-09-25 16:00:12.
+Table date: 2017-09-21
+Data is not fully ready.
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-10-09 16:00:13.
+Traceback (most recent call last):
+  File "C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py", line 50, in <module>
+    print 'Table date: ' + end_dt.strftime("%Y-%m-%d")
+AttributeError: 'NoneType' object has no attribute 'strftime'
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-10-16 16:00:18.
+Table date: 2017-10-12
+Data is not fully ready.
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-10-23 16:00:17.
+Table date: 2017-10-21
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-10-30 19:05:18.
+Table date: 2017-10-28
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-11-06 19:05:18.
+Table date: 2017-11-04
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-11-13 19:05:21.
+Table date: 2017-11-11
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-11-20 19:05:19.
+Table date: 2017-11-18
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-11-27 19:05:21.
+Table date: 2017-11-25
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-12-04 19:05:12.
+Table date: 2017-12-02
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-12-11 19:05:16.
+Table date: 2017-12-09
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-12-18 19:05:11.
+Table date: 2017-12-16
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2017-12-25 19:05:19.
+Table date: 2017-12-23
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-01-01 19:05:11.
+Table date: 2017-12-30
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-01-08 19:05:18.
+Table date: 2018-01-06
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-01-15 19:05:15.
+Table date: 2018-01-13
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-01-22 19:05:13.
+Table date: 2018-01-20
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-01-29 19:05:11.
+Table date: 2018-01-27
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-02-05 19:05:20.
+Table date: 2018-02-01
+Data is not fully ready.
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-02-12 19:05:19.
+Table date: 2018-02-10
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-02-19 19:05:19.
+Table date: 2018-02-17
+Updating Excel file
+
+Update Finished: AU
+Send eMail
+
+C:\WINDOWS\system32>C:\Python27\python C:\Users\ywang44\Documents\top125\ExcelAU\Auto_top_125.py 
+Connecting Server to determine date info at: 2018-02-26 19:05:21.
+Table date: 2018-02-24
+Updating Excel file
+
+Update Finished: AU
+Send eMail
